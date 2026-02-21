@@ -9,8 +9,7 @@ To build the project, run
 mvnw clean install
 ```
 To use this project in IntelliJ IDEA, you need to configure IntelliJ IDEA to use Maven 4. Please follow these steps:
-- Download Maven 4 from https://maven.apache.org/download.cgi and extract it to a directory, for example, `C:\apache-maven-4.0.0-rc-5`.
-- Select `"File" → "Settings" → "Build, Execute, Deploy" → "Build Tools" → "Maven,"` and then set the Maven home directory path to the root directory of Maven 4, for example, `C:\apache-maven-4.0.0-rc-5`.
+- Select `"File" → "Settings" → "Build, Execute, Deploy" → "Build Tools" → "Maven,"` and then set the Maven home path to `Use Maven wrapper`.
 
 ## Major Changes Compared to Maven 3
 
